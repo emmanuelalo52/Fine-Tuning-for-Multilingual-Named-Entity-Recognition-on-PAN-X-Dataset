@@ -1,4 +1,4 @@
-# Comprehensive Guide to XLM-Roberta Fine-Tuning for Multilingual Named Entity Recognition on PAN-X Dataset
+# XLM-Roberta Fine-Tuning for Multilingual Named Entity Recognition on PAN-X Dataset
 
 ## Introduction
 
